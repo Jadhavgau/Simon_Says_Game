@@ -40,8 +40,9 @@ body{
 }
 
 @media(max-width: 285){
-    .btn{
+    .btn-container{
         width: 120px;
         height: 120px;
     }
+
 }
